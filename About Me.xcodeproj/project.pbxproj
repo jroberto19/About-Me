@@ -51,8 +51,8 @@
 		67E585DB29F21740007613E5 /* About Me */ = {
 			isa = PBXGroup;
 			children = (
-				67E585DC29F21740007613E5 /* About_MeApp.swift */,
 				67E585DE29F21740007613E5 /* ContentView.swift */,
+				67E585DC29F21740007613E5 /* About_MeApp.swift */,
 				67E585E029F21741007613E5 /* Assets.xcassets */,
 				67E585E229F21741007613E5 /* Preview Content */,
 			);
